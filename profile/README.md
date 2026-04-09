@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Cisco-RADKit/how_to_radkit/blob/main/radkit_dev_logo_.png" style="width: 300px;" alt="Cisco RADKit" /></br>
+  <img src="https://github.com/Cisco-RADKit/how_to_radkit/blob/main/radkit_dev_logo__.gif" style="width: 300px;" alt="Cisco RADKit" /></br>
   Welcome to the <strong>Cisco RADKit Developer Community</strong></br>A space for every line of code built on top of Cisco RADKit
 </p>
 
