@@ -57,3 +57,8 @@ Be part of our **community program** where we post hot topics and recognize cont
 **💬 [Open a TAC case](https://mycase.cloudapps.cisco.com/attendeeCaseCreate)** for deployment-related issues covered by a valid support contract.
 
 **🔍 Interested in Deploying Cisco RADKit for the first time?** Request a guided demo using [**this form**](https://ciscocx.qualtrics.com/jfe/form/SV_em7iiru9I5UUCJU).
+
+## License
+
+Unless otherwise specified, `Cisco-RADKit` org projects are distributed under the `Apache-2.0` License. See [LICENSE](LICENSE) 
+for more information.
